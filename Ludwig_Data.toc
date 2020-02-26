@@ -1,8 +1,8 @@
-## Interface: 70200
+## Interface: 11303
 ## Title: |cffbd40bdLudwig Data|r
-## Author: Tuller & Jaliborc (João Cardoso)
+## Author: Tuller & Jaliborc (João Cardoso) Modified for classic by minigubben (Noah Christiansson)
 ## Notes: Load on demand database for Ludwig
-## Version: 7.2.0
+## Version: 1.0
 
 ## Dependencies: Ludwig
 ## LoadOnDemand: 1
